@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HkM2kEpWOsPNqEdwNNAe+9YMN8ZCnydoZyurb0zgQsejBEEc3Sm9pBsGJMjSx4HcDROy+H7ArmRg6nhF1kRHEA==",
+  "dgSpecHash": "cMBPlpABppdVyAFTAIOhQyVSnv5RhJMLo5JKeTRsWfweF2whtz6KuJQwJhOr4hU3vXPzgyWreH4hoLz8zJ4v1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diaza\\Desktop\\PROYECTOS\\ToDoApp\\mvc\\mvc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\PROYECTOS\\ToDoApp\\mvc\\mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
